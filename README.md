@@ -1,0 +1,2 @@
+# rsyncd
+rsync server
